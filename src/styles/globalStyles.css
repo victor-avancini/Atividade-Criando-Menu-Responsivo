@@ -1,0 +1,15 @@
+@import url("./reset.css");
+@import url("./index.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+:root{
+    --brand1: #364FC7;
+    --gray1: #212529;
+    --gray2: #868E96;
+    --gray3: #ADB5BD;
+    --gray4: #E9ECEF;
+    --gray5: #F1F3F5;
+    --gray6: #F8F9FA;
+    --mode: #FFFFFF; 
+    --fontDefault: 'Inter', sans-serif;
+}

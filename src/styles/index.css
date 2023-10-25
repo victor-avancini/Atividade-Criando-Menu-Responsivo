@@ -1,0 +1,27 @@
+body{
+    font-family: var(--fontDefault);
+}
+
+header{
+    padding: 1.25rem 6.75rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    border-bottom: 2px solid var(--gray4);
+    background-color: var(--mode);
+}
+
+nav{
+    display: flex;
+    gap: 3rem;
+}
+
+ul{
+    display: flex;
+    gap: 3rem;
+}
+
+li{
+    text-decoration: none;
+}
